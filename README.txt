@@ -13,3 +13,5 @@ Wykorzystane biblioteki zewnętrzne:
 -OpenCV
 -Matplotlib
 -Keras
+
+Autorzy: Przemysław Indyka, Damian Cudek
